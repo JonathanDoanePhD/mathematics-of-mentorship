@@ -1,0 +1,6 @@
+,exposure_parent_ses_hs,bias_parent_ses_hs,ec_parent_ses_hs,frl_share,grad_ed
+exposure_parent_ses_hs,1.0,0.16,0.99,-0.74,0.13
+bias_parent_ses_hs,0.16,1.0,0.06,-0.04,-0.02
+ec_parent_ses_hs,0.99,0.06,1.0,-0.74,0.13
+frl_share,-0.74,-0.04,-0.74,1.0,-0.07
+grad_ed,0.13,-0.02,0.13,-0.07,1.0

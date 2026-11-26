@@ -1,0 +1,6 @@
+stat,estimate,se,ci_low,ci_high,n_students
+school SES mix -> math (SD),0.1410,0.0481,0.0466,0.2353,985
+school SES mix -> belonging,0.0260,0.0232,-0.0195,0.0714,985
+school SES mix -> self-efficacy,0.0552,0.0389,-0.0210,0.1313,985
+"school SES mix -> self-efficacy, same math score",0.0038,0.0339,-0.0626,0.0702,985
+"school SES mix -> belonging, same math score",0.0268,0.0232,-0.0186,0.0723,985

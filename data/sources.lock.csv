@@ -1,0 +1,11 @@
+file,url,downloaded_utc,bytes,sha256
+ccd/ccd_lunch_1819.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_033_1819_l_1a_091019.zip,2026-11-13,11439871,cad69e8efa5c4dbd1c9f30051ac04a7615b8925aa0b261ec553ff0908bb35143
+ccd/ccd_membership_1819.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_052_1819_l_1a_091019.zip,2026-11-13,177164437,f6a722ac236db1c57e2fc4ca475fb4db55a933850dbf5c53115c489a962e4929
+grad_rates_2018.csv,https://educationdata.urban.org/csv/edfacts/schools_edfacts_grad_rates_2018.csv,2026-11-13,34368729,124c2e214d1a281f55f5b3c886dae702c04a41c7317b04505b6e12ee8b2599df
+nsch/nsch_2024_topical_Stata.zip,https://www2.census.gov/programs-surveys/nsch/datasets/2024/nsch_2024_topical_Stata.zip,2026-11-13,6252225,a12d1839cae8b843884e7fb5b520835844ee6304c496ba7873d7f8a4152fe2e0
+pisa/STU_QQQ_SPSS.zip,https://webfs.oecd.org/pisa2022/STU_QQQ_SPSS.zip,2026-11-13,682364259,24ee020cd6315d8aca52e07fd9aaef21cbf4f9e5b21601734b4ee6d0928a0905
+sca_license.pdf,https://data.humdata.org/dataset/85ee8e10-0c66-4635-b997-79b6fad44c71/resource/eea36412-034c-4c86-b85c-9e4171aa580a/download/license.pdf,2026-11-13,31736,da52166ec629b316d94f1d87f3331b0f861f8d1204cf1eb9ddf244248e5bbcd6
+sca_readme.pdf,https://data.humdata.org/dataset/85ee8e10-0c66-4635-b997-79b6fad44c71/resource/fbe5b0b9-e81c-41c7-a9f2-3ebf8212cf64/download/data_release_readme_31_07_2022_nomatrix.pdf,2026-11-13,310184,431f73ada2720112f6eea209377719a8ccac99766a44fa3d6b25ae55b2844723
+social_capital_high_school.csv,https://data.humdata.org/dataset/85ee8e10-0c66-4635-b997-79b6fad44c71/resource/0de85271-031d-4849-bda8-c8582a67e11b/download/social_capital_high_school.csv,2026-11-13,2903410,637e11f43841fee4ae18e383280054200c54436f4d8042c6a0865f9f9618355a
+yrbs/yrbs_2023.dat,https://www.cdc.gov/yrbs/files/2023/XXH2023_YRBS_Data.dat,2026-11-13,8503569,0a83cba11dc8a0cdf0043aacf0b80478f86cf93a91a8ecb81a276518e486241a
+yrbs/yrbs_2023_input.sas,https://www.cdc.gov/yrbs/files/2023/2023XXH-SAS-Input-Program.sas,2026-11-13,18559,89a7d57d9658bb8233d892544b436b8931c2b1d18dce7d8af52080465114771f

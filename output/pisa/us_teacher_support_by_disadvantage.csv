@@ -1,0 +1,5 @@
+stat,estimate,se,ci_low,ci_high
+teacher relationships -> belonging (others),0.3290,0.0263,0.2775,0.3805
+extra for disadvantaged -> belonging,-0.0131,0.0412,-0.0939,0.0676
+teacher relationships -> self-efficacy (others),0.2078,0.0189,0.1707,0.2449
+extra for disadvantaged -> self-efficacy,0.0434,0.0428,-0.0405,0.1274

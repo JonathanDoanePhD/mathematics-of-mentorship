@@ -1,0 +1,11 @@
+stat,estimate,se,ci_low,ci_high,n_students
+a: teacher relationships -> belonging,0.3268,0.0230,0.2817,0.3719,3943
+b1: belonging -> self-efficacy,0.0754,0.0190,0.0382,0.1126,3943
+b2: teacher relationships -> self-efficacy (direct),0.1947,0.0177,0.1600,0.2294,3943
+c1: self-efficacy -> math,0.3849,0.0217,0.3424,0.4274,3943
+c2: belonging -> math (direct),-0.0604,0.0193,-0.0983,-0.0225,3943
+c3: teacher relationships -> math (direct),0.0319,0.0183,-0.0040,0.0678,3943
+total: teacher relationships -> math,0.0966,0.0186,0.0602,0.1330,3943
+indirect: rel -> belong -> efficacy -> math,0.0095,0.0027,0.0042,0.0148,3943
+indirect: rel -> efficacy -> math,0.0749,0.0083,0.0587,0.0911,3943
+indirect: rel -> belong -> math,-0.0197,0.0065,-0.0325,-0.0069,3943

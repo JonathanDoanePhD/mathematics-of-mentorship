@@ -1,0 +1,37 @@
+outcome,model,state_fe,term,coef_per_sd,ci_low,ci_high,n_schools,r2
+"Grad rate, economically disadvantaged",A. exposure + friending bias,False,exposure_parent_ses_hs,1.2660,0.9245,1.6074,8934,0.0223
+"Grad rate, economically disadvantaged",A. exposure + friending bias,False,bias_parent_ses_hs,-0.2464,-0.5260,0.0332,8934,0.0223
+"Grad rate, economically disadvantaged",A. exposure + friending bias,True,exposure_parent_ses_hs,1.8382,1.5784,2.0979,8934,0.3178
+"Grad rate, economically disadvantaged",A. exposure + friending bias,True,bias_parent_ses_hs,-0.6334,-0.8542,-0.4127,8934,0.3178
+"Grad rate, economically disadvantaged",B. + school poverty & size,False,exposure_parent_ses_hs,1.6734,1.0683,2.2786,8934,0.0369
+"Grad rate, economically disadvantaged",B. + school poverty & size,False,bias_parent_ses_hs,-0.4472,-0.7332,-0.1612,8934,0.0369
+"Grad rate, economically disadvantaged",B. + school poverty & size,False,frl_share,0.6792,0.1088,1.2496,8934,0.0369
+"Grad rate, economically disadvantaged",B. + school poverty & size,False,log_enrollment,0.8200,0.4736,1.1664,8934,0.0369
+"Grad rate, economically disadvantaged",B. + school poverty & size,True,exposure_parent_ses_hs,1.6741,1.2336,2.1147,8934,0.3225
+"Grad rate, economically disadvantaged",B. + school poverty & size,True,bias_parent_ses_hs,-0.5287,-0.7527,-0.3047,8934,0.3225
+"Grad rate, economically disadvantaged",B. + school poverty & size,True,frl_share,-0.3230,-0.7622,0.1162,8934,0.3225
+"Grad rate, economically disadvantaged",B. + school poverty & size,True,log_enrollment,-0.6074,-0.8704,-0.3444,8934,0.3225
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,False,ec_parent_ses_hs,1.7098,1.1143,2.3053,8934,0.0366
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,False,frl_share,0.7489,0.1764,1.3214,8934,0.0366
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,False,log_enrollment,0.7580,0.4252,1.0908,8934,0.0366
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,True,ec_parent_ses_hs,1.7818,1.3494,2.2141,8934,0.3221
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,True,frl_share,-0.1802,-0.6185,0.2582,8934,0.3221
+"Grad rate, economically disadvantaged",C. economic connectedness + poverty & size,True,log_enrollment,-0.6942,-0.9500,-0.4385,8934,0.3221
+"Grad rate, all students",A. exposure + friending bias,False,exposure_parent_ses_hs,3.0604,2.8349,3.2859,8934,0.2267
+"Grad rate, all students",A. exposure + friending bias,False,bias_parent_ses_hs,-0.4506,-0.6623,-0.2388,8934,0.2267
+"Grad rate, all students",A. exposure + friending bias,True,exposure_parent_ses_hs,3.4297,3.2269,3.6326,8934,0.3935
+"Grad rate, all students",A. exposure + friending bias,True,bias_parent_ses_hs,-0.5790,-0.7609,-0.3971,8934,0.3935
+"Grad rate, all students",B. + school poverty & size,False,exposure_parent_ses_hs,1.6417,1.2096,2.0737,8934,0.2522
+"Grad rate, all students",B. + school poverty & size,False,bias_parent_ses_hs,-0.3225,-0.5443,-0.1008,8934,0.2522
+"Grad rate, all students",B. + school poverty & size,False,frl_share,-1.7925,-2.2448,-1.3402,8934,0.2522
+"Grad rate, all students",B. + school poverty & size,False,log_enrollment,0.0800,-0.1683,0.3284,8934,0.2522
+"Grad rate, all students",B. + school poverty & size,True,exposure_parent_ses_hs,1.6904,1.3508,2.0299,8934,0.4412
+"Grad rate, all students",B. + school poverty & size,True,bias_parent_ses_hs,-0.3277,-0.5093,-0.1462,8934,0.4412
+"Grad rate, all students",B. + school poverty & size,True,frl_share,-2.3454,-2.7131,-1.9776,8934,0.4412
+"Grad rate, all students",B. + school poverty & size,True,log_enrollment,-0.7687,-0.9693,-0.5681,8934,0.4412
+"Grad rate, all students",C. economic connectedness + poverty & size,False,ec_parent_ses_hs,1.6483,1.2258,2.0707,8934,0.2522
+"Grad rate, all students",C. economic connectedness + poverty & size,False,frl_share,-1.7640,-2.2198,-1.3082,8934,0.2522
+"Grad rate, all students",C. economic connectedness + poverty & size,False,log_enrollment,0.0517,-0.1839,0.2873,8934,0.2522
+"Grad rate, all students",C. economic connectedness + poverty & size,True,ec_parent_ses_hs,1.7295,1.4028,2.0563,8934,0.4417
+"Grad rate, all students",C. economic connectedness + poverty & size,True,frl_share,-2.2873,-2.6533,-1.9213,8934,0.4417
+"Grad rate, all students",C. economic connectedness + poverty & size,True,log_enrollment,-0.8011,-0.9898,-0.6124,8934,0.4417
