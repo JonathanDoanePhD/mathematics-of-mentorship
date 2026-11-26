@@ -201,7 +201,7 @@ See `data/sources.csv` (links, licenses) and `data/sources.lock.csv` (dates, che
 
 ## License, citation and data terms
 
-- **Code:** MIT (proposed; see `LICENSE`). **Outputs:** CC BY 4.0 (proposed), subject to the source terms below.
+- **Code:** MIT (see `LICENSE`). **Outputs:** CC BY 4.0, subject to the source terms below.
 - **Cite this project as:** JonathanDoanePhD (2026). *Mathematics of Mentorship: bridging adults*. https://github.com/JonathanDoanePhD/mathematics-of-mentorship
 - **Data sources and terms** (from `data/sources.csv`; recorded versions and checksums in `data/sources.lock.csv`):
 
@@ -221,9 +221,10 @@ See `data/sources.csv` (links, licenses) and `data/sources.lock.csv` (dates, che
 Built with AI assistance (Claude). Exploratory research: every statistic needs checking against its original source
 before it appears in funder reports, grant applications or public material.
 
-## Before public release
+## Status and limitations
 
-- [ ] Every statistic in this README and in `output/` is checked against its original source.
-- [ ] Verify the remaining citations (DuBois 2011, Raposa 2019 and Grossman & Rhodes 2002 are checked).
-- [ ] Confirm OECD PISA database terms; Urban Institute data need ODC-By attribution; Social Capital Atlas needs the Meta license notice.
-- [ ] The owner confirms the license choice above.
+Published 2026-11-26 as exploratory research. The analysis is complete and reproducible, but these checks have **not yet been done**, so treat figures as provisional:
+
+- Statistics in this README and in `output/` have not been independently checked against their original sources.
+- Verify the remaining citations (DuBois 2011, Raposa 2019 and Grossman & Rhodes 2002 are checked).
+- Confirm OECD PISA database terms; Urban Institute data need ODC-By attribution; Social Capital Atlas needs the Meta license notice.
